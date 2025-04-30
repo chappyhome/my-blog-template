@@ -16,8 +16,7 @@ timezone:
 
 title: 老彭科技分享 # the main title
 
-tagline:  “技术之光，照亮未来”
-强调技术的引领作用，寓意通过分享科技知识，点亮前行的道路。# it will display as the subtitle
+tagline:  技术之光，照亮未来 #强调技术的引领作用，寓意通过分享科技知识，点亮前行的道路。# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   在这个信息爆炸、技术飞速发展的时代，**“老彭科技分享”**致力于点亮每一位技术爱好者的前行之路。​我们坚信，技术不仅是工具，更是连接梦想与现实的桥梁。​
