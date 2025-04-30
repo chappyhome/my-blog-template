@@ -89,7 +89,7 @@ flowchart LR
   B -->|否| D[结束]
 ```
 
-{% include embed/video.html id="/assets/audio/1.mp4" types='ogg|mov'%}
+{% include embed/video.html id="/assets/video/1.mp4" types='ogg|mov'%}
 
 ## 音频演示
 
