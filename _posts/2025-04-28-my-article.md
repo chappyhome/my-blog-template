@@ -55,7 +55,7 @@ jekyll post "一次完整的 Chirpy 博文示例"
 
 演示行号、文件名与内联代码：
 
-```javascript file="src/app.js"
+```javascript
 // src/app.js
 function greet(name) {
   console.log(`Hello, ${name}!`);
@@ -89,7 +89,7 @@ flowchart LR
   B -->|否| D[结束]
 ```
 
-{% include embed/video.html id="/assets/video/1.mp4" types='ogg|mov'%}
+{% include embed/video.html id="/assets/video/1.mp4" types='ogg|mov|mp4'%}
 
 ## 音频演示
 
